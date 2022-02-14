@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF</h1>
+    <p>Open a PDF file <a href="file:///C:/Users/myAsus/Documents/GitHub/MyLA558/Web/Assignment1.pdf">F</a>.</p>
+  </body>
+</html>
