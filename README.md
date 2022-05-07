@@ -1,3 +1,5 @@
 # LA558-2022. Shiva Afshari
 #Shiva Afshari
-#Need a coffee mug in this cold winter
+
+Exercises
+https://github.com/ShivaAfshari/LA558-2022/blob/main/Web/ex2a.html
