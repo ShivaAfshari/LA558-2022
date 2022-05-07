@@ -2,4 +2,4 @@
 #Shiva Afshari
 
 Exercises
-https://github.com/ShivaAfshari/LA558-2022/blob/main/Web/ex2a.html
+https://shivaafshari.github.io/LA558-2022/Web/assingmnet3/assignment3.html
