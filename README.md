@@ -2,4 +2,5 @@
 #Shiva Afshari
 
 Exercises
-https://shivaafshari.github.io/LA558-2022/Web/assingmnet3/assignment3.html
+Assignments
+assignment 3 https://shivaafshari.github.io/LA558-2022/Web/assingmnet3/assignment3.html
