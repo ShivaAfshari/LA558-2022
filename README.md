@@ -18,5 +18,5 @@
 # [Assignment 4](https://shivaafshari.github.io/LA558-2022/Web/assignment%204/assignment4sheet1.html)
 # [Assignment 4](https://shivaafshari.github.io/LA558-2022/Web/assignment%204/assignment4sheet2.html)
 
-#Final Project
-#[Final Project](https://shivaafshari.github.io/LA558-2022/Web/final%20project/finalproject.html)
+# Final Project
+# [Final Project](https://shivaafshari.github.io/LA558-2022/Web/final%20project/finalproject.html)
